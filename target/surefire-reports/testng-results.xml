@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-03T13:33:59 IST" name="All Test Suite" finished-at="2021-02-03T13:33:59 IST" duration-ms="101">
+    <groups>
+    </groups>
+    <test started-at="2021-02-03T13:33:59 IST" name="C:/Users/hello/IdeaProjects/Maven" finished-at="2021-02-03T13:33:59 IST" duration-ms="101">
+      <class name="AppiumTest">
+        <test-method signature="solmon()[pri:0, instance:AppiumTest@3901d134]" started-at="2021-02-03T13:33:59 IST" name="solmon" finished-at="2021-02-03T13:33:59 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- solmon -->
+        <test-method signature="weebeing()[pri:0, instance:AppiumTest@3901d134]" started-at="2021-02-03T13:33:59 IST" name="weebeing" finished-at="2021-02-03T13:33:59 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- weebeing -->
+      </class> <!-- AppiumTest -->
+      <class name="SeleniumTest">
+        <test-method signature="Elementsui()[pri:0, instance:SeleniumTest@14d3bc22]" started-at="2021-02-03T13:33:59 IST" name="Elementsui" finished-at="2021-02-03T13:33:59 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Elementsui -->
+        <test-method signature="browserautomation()[pri:0, instance:SeleniumTest@14d3bc22]" started-at="2021-02-03T13:33:59 IST" name="browserautomation" finished-at="2021-02-03T13:33:59 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserautomation -->
+      </class> <!-- SeleniumTest -->
+      <class name="ApiTest">
+        <test-method signature="dwerty()[pri:0, instance:ApiTest@11a9e7c8]" started-at="2021-02-03T13:33:59 IST" name="dwerty" finished-at="2021-02-03T13:33:59 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dwerty -->
+        <test-method signature="trirty()[pri:0, instance:ApiTest@11a9e7c8]" started-at="2021-02-03T13:33:59 IST" name="trirty" finished-at="2021-02-03T13:33:59 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- trirty -->
+      </class> <!-- ApiTest -->
+    </test> <!-- C:/Users/hello/IdeaProjects/Maven -->
+  </suite> <!-- All Test Suite -->
+</testng-results>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="0" preserve-order="true" name="C:/Users/hello/IdeaProjects/Maven">
+    <classes>
+        <class name="ApiTest"/>
+        <class name="AppiumTest"/>
+        <class name="SeleniumTest"/>
+        </classes>
+    </test>
+</suite>
