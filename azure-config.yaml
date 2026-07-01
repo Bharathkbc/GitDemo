@@ -1,0 +1,24 @@
+# Azure Resources for Bill Compare Tool
+# Created: June 30, 2026
+
+resources:
+  - type: "Azure Blob Storage"
+    name: "billcompare-storage"
+    purpose: "Store CSV/Excel files"
+    
+  - type: "Azure Data Factory"
+    name: "billcompare-adf"
+    purpose: "ETL pipeline to process data"
+    
+  - type: "Azure SQL Database"
+    name: "billcompare-db"
+    purpose: "Store structured billing data"
+    
+  - type: "PowerBI"
+    name: "Bill Compare Tool"
+    purpose: "Visualization dashboard"
+
+deployment:
+  environment: "production"
+  region: "eastus"
+  created_by: "Bharath & Edwin"
