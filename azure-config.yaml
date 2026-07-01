@@ -22,3 +22,6 @@ deployment:
   environment: "production"
   region: "eastus"
   created_by: "Bharath & Edwin"
+pricing_tier: "Standard"
+estimated_cost: "$500/month"
+notes: "Updated with pricing information - needs approval from finance team"
